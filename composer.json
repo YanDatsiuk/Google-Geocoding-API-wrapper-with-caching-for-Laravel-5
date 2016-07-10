@@ -1,0 +1,12 @@
+{
+    "name": "yandatsyuk/google-geocoding",
+    "description": "Google Geocoding API wrapper with caching for Laravel 5",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yan Datsyuk",
+            "email": "yanek2357111317232931@gmail.com"
+        }
+    ],
+    "require": {}
+}
